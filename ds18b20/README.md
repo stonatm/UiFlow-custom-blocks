@@ -12,6 +12,7 @@
 
  **IMPORTANT:** This is a simplified version for operating the temperature sensor and has some limitations:
  - correctly supports only ds18b20 model
+ - reads only temperature (other features like alarms are not supported)
  - supports only one sensor per line
  - does not support the power mode of the parasitic sensor
 
