@@ -21,7 +21,7 @@ Custom block file: [dht12ow.m5b](dht12ow.m5b)
 
 ## Example application
 
-Example file: [dht12.m5f](dht12.m5f)
+Example file: [dht12ow.m5f](dht12ow.m5f)
 
 ![example.png](example.png)
 
