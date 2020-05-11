@@ -40,5 +40,5 @@ Example file: [example.m5f](example.m5f)
 
 ![example.jpeg](example.jpeg)
 
-Python source code used to create this custom blocks: ![blynk.py](blynk.py)
+Python source code used to create this custom blocks: [blynk.py](blynk.py)
 
