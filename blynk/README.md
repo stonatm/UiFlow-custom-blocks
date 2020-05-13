@@ -38,6 +38,8 @@ Custom block file: [blynk.m5b](blynk.m5b)
 
 Example file: [blynk.m5f](blynk.m5f)
 
+Don't forget to add block to connect to your wifi network
+
 ![example.jpeg](example.jpeg)
 
 Python source code used to create this custom blocks: [blynk.py](blynk.py)
