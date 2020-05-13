@@ -36,7 +36,7 @@ Custom block file: [blynk.m5b](blynk.m5b)
 
 ## Example application
 
-Example file: [example.m5f](example.m5f)
+Example file: [blynk.m5f](blynk.m5f)
 
 ![example.jpeg](example.jpeg)
 
