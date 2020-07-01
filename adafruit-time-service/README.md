@@ -19,7 +19,7 @@ Returned time reffer to location which you set in your adafruit.io profile.
 
 ## Block
 
-Block file: [adafruittime.m5b](adafruittime.m5b) based on [ada_time.py](ada_time.py)
+Block file: [adafruit_time.m5b](adafruit_time.m5b) based on [ada_time.py](ada_time.py)
 
 ![block.png](block.png)
 
