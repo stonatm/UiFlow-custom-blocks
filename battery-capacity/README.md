@@ -5,6 +5,6 @@
 
 ## Block
 
-block file: [battery.m5b](battery.m5b)
+block file: [battery.m5b](battery.m5b) based on [battery.py](battery.py) source code.
 
 ![block.png](block.png)
