@@ -19,6 +19,7 @@
 ## Blocks
 
 Custom block file: [ds18b20.m5b](ds18b20.m5b)
+based on source python file: [blocky18b20.py](blocky18b20.py)
 
 ![block.jpg](block.jpg)
 
